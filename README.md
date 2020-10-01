@@ -2,7 +2,7 @@
 
 # AppRTC Demo Code
 
-## Development
+## Development information
 
 Detailed information on developing in the [webrtc](https://github.com/webrtc) github repo can be found in the [WebRTC GitHub repo developer's guide](https://docs.google.com/document/d/1tn1t6LW2ffzGuYTK3366w1fhTkkzsSvHsBnOHoDfRzY/edit?pli=1#heading=h.e3366rrgmkdk).
 
@@ -36,7 +36,7 @@ To run only the Python tests you can call,
 grunt runPythonTests
 ```
 
-## Deployment
+## Deployment process 
 Instructions were performed on Ubuntu 14.04 using Python 2.7.6 and Go 1.6.3.
 
 1. Clone the AppRTC repository
